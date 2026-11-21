@@ -17,8 +17,8 @@ API backend pour la gestion des plantes et de la communauté GreenThumb, avec au
 1. **Cloner le dépôt**
 
 ```bash
-git clone https://github.com/redahmd/greenthumb-backend.git
-cd greenthumb-backend
+git clone https://github.com/zakariae459/GreenThumb-backend.git
+cd GreenThumb-backend
 
 Installer les dépendances
 
